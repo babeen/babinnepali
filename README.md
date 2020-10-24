@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-**babinnepali/babinnepali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--**babinnepali/babinnepali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on frontend development
 - 🌱 I’m currently learning ...css,react.js
