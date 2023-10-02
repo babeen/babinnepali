@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [language translator](https://github.com/babeen/Newa-translator)
 
-- 🌱 I’m currently learning **React,MongoDB,NodeJS**
+- 🌱 I’m currently learning **React,MongoDB,Python - Django**
 
 - 📝 I regularly write articles on [https://twitter.com/NepaliBabin](https://twitter.com/NepaliBabin)
 
